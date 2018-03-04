@@ -1,0 +1,144 @@
+.blazers--primary {
+  color: #E13A3E;
+}
+.blazers--secondary {
+  color: #C4CED4;
+}
+.blazers--tertiary {
+  color: black;
+}
+.blazers--quaternary {
+  color: white;
+}
+.blazers__background--primary {
+  background-color: #E13A3E;
+}
+.blazers__background--secondary {
+  background-color: #C4CED4; }
+
+.blazers__background--tertiary {
+  background-color: black;
+}
+.blazers__background--quaternary {
+  background-color: white;
+}
+
+.huskies--primary {
+  color: #4B2E83;
+}
+.huskies--secondary {
+  color: #B7A57A;
+}
+.huskies--tertiary {
+  color: #85754D;
+}
+.huskies__background--primary {
+  background-color: #4B2E83;
+}
+.huskies__background--secondary {
+  background-color: #B7A57A;
+}
+.huskies__background--tertiary {
+  background-color: #85754D;
+}
+
+.mariners--primary {
+  color: #0C2340;
+
+}
+.mariners--secondary {
+  color: #00685E;
+
+}
+.mariners--tertiary {
+  color: #8A8D8F;
+
+}
+.mariners--quaternary {
+  color: #D50032;
+
+}
+.mariners__background--primary {
+  background-color: #0C2340;
+
+}
+.mariners__background--secondary {
+  background-color: #00685E;
+
+}
+.mariners__background--tertiary {
+  background-color: #8A8D8F;
+
+}
+.mariners__background--quaternary {
+  background-color: #D50032;
+
+}
+.mariners__retro--primary {
+  color: #002878;
+
+}
+.mariners__retro--secondary {
+  color: #FFCC00;
+
+}
+.mariners__retro__background--primary {
+  background-color: #002878;
+
+}
+.mariners__retro__background--secondary {
+  background-color: #FFCC00;
+
+}
+
+.seahawks--primary {
+  color: #0C2340;
+}
+.seahawks--secondary {
+  color: #78BE20;
+}
+.seahawks--tertiary {
+  color: #A2AAAD;
+}
+.seahawks__background--primary {
+  background-color: #0C2340;
+}
+.seahawks__background--secondary {
+  background-color: #78BE20;
+}
+.seahawks__background--tertiary {
+  background-color: #A2AAAD; }
+
+.seahawks__retro--primary {
+  color: #003087;
+}
+.seahawks__retro--secondary {
+  color: #046A38;
+}
+.seahawks__retro--tertiary {
+  color: #8A8D8F;
+}
+.seahawks__retro--quaternary {
+  color: #B2B4B2;
+}
+.seahawks__retro__background--primary {
+  background-color: #003087;
+}
+.seahawks__retro__background--secondary {
+  background-color: #046A38;
+}
+.seahawks__retro__background--tertiary {
+  background-color: #8A8D8F;
+}
+.seahawks__retro__background--quaternary {
+  background-color: #B2B4B2;
+}
+
+div {
+  height: 50px;
+  width: 200px;
+}
+
+.bordered {
+  border: 1px solid black;
+}

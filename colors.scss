@@ -1,0 +1,174 @@
+/// Source: teamcolorcodes.com
+
+$action-green: #78BE20;
+$blazers-red: #E13A3E;
+$blazers-silver: #C4CED4;
+$college-navy: #0C2340;
+$gold: #B7A57A;
+$mariners-red: #D50032;
+$mariners-retro-blue: #002878;
+$mariners-silver: #8A8D8F;
+$metallic-gold: #85754D;
+$navy-blue: #0C2340;
+$northwest-green: #00685E;
+$purple: #4B2E83;
+$seahawks-retro-blue: #003087;
+$seahawks-retro-gray: #B2B4B2;
+$seahawks-retro-green: #046A38;
+$seahawks-retro-silver: #8A8D8F;
+$wolf-gray: #A2AAAD;
+$yellow: #FFCC00;
+
+.blazers {
+  &--primary {
+    color: $blazers-red;
+  }
+  &--secondary {
+    color: $blazers-silver;
+  }
+  &--tertiary {
+    color: black;
+  }
+  &--quaternary {
+    color: white;
+  }
+  &__background {
+    &--primary {
+      background-color: $blazers-red;
+    }
+    &--secondary {
+      background-color: $blazers-silver;
+    }
+    &--tertiary {
+      background-color: black;
+    }
+    &--quaternary {
+      background-color: white;
+    }
+  }
+}
+
+.huskies {
+  &--primary {
+    color: $purple;
+  }
+  &--secondary {
+    color: $gold;
+  }
+  &--tertiary {
+    color: $metallic-gold;
+  }
+  &__background {
+    &--primary {
+      background-color: $purple;
+    }
+    &--secondary {
+      background-color: $gold;
+    }
+    &--tertiary {
+      background-color: $metallic-gold;
+    }
+  }
+}
+
+.mariners {
+  &--primary {
+    color: $navy-blue;
+  }
+  &--secondary {
+    color: $northwest-green;
+  }
+  &--tertiary {
+    color: $mariners-silver;
+  }
+  &--quaternary {
+    color: $mariners-red;
+  }
+
+  &__background {
+    &--primary {
+      background-color: $navy-blue;
+    }
+    &--secondary {
+      background-color: $northwest-green;
+    }
+    &--tertiary {
+      background-color: $mariners-silver;
+    }
+    &--quaternary {
+      background-color: $mariners-red;
+    }
+  }
+
+  &__retro {
+    &--primary {
+      color: $mariners-retro-blue;
+    }
+    &--secondary {
+      color: $yellow;
+    }
+
+    &__background {
+      &--primary {
+        background-color: $mariners-retro-blue;
+      }
+      &--secondary {
+        background-color: $yellow;
+      }
+    }
+  }
+}
+
+.seahawks {
+  &--primary {
+    color: $college-navy;
+  }
+  &--secondary {
+    color: $action-green;
+  }
+  &--tertiary {
+    color: $wolf-gray;
+  }
+
+  &__background {
+    &--primary {
+      background-color: $college-navy;
+    }
+    &--secondary {
+      background-color: $action-green;
+    }
+    &--tertiary {
+      background-color: $wolf-gray;
+    }
+  }
+
+  &__retro {
+    &--primary {
+      color: $seahawks-retro-blue;
+    }
+    &--secondary {
+      color: $seahawks-retro-green;
+    }
+    &--tertiary {
+      color: $seahawks-retro-silver;
+    }
+    &--quaternary {
+      color: $seahawks-retro-gray;
+    }
+
+    &__background {
+      &--primary {
+        background-color: $seahawks-retro-blue;
+      }
+      &--secondary {
+        background-color: $seahawks-retro-green;
+      }
+      &--tertiary {
+        background-color: $seahawks-retro-silver;
+      }
+      &--quaternary {
+        background-color: $seahawks-retro-gray;
+      }
+    }
+  }
+}
